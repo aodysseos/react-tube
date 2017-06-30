@@ -1,0 +1,27 @@
+$dark-grey: #222;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: $dark-grey;
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: $dark-grey;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.btn-reverb { left:60px; }
+.btn-forward {  }
